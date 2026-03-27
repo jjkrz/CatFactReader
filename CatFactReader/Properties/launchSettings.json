@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CatFactReader": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
